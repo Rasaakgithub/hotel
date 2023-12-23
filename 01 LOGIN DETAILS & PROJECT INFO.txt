@@ -1,0 +1,15 @@
+**Database Name: hotelms**
+
+**Developed by mohamed, abdisamed and asia**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Login Details**
+
+username: mraash / mraash@gmail.com
+password: 09876543
+
+
+Username: hadraawi / gabay@gmail.com
+Password : 0987654
